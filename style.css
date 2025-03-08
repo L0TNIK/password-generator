@@ -1,0 +1,22 @@
+body {
+  font-family: Verdana;
+  width: 100%;
+  text-align: center;
+}
+button {
+  color: white;
+  background-color: rgb(104, 104, 255);
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(66, 66, 255);
+  cursor: pointer;
+}
+h1 {
+  size: 200px;
+}
+p {
+  font-size: xx-large;
+}
